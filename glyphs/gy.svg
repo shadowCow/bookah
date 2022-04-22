@@ -1,0 +1,18 @@
+<svg
+    viewbox="0 0 90 90"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <!-- right outside -->
+    <path
+        d="M89 1, L89 89"
+        stroke="black"
+        fill="none"
+    />
+
+    <!-- single inside triangle -->
+    <path
+        d="M89 89, L61 61, L89 61"
+        stroke="black"
+        fill="none"
+    />
+</svg>

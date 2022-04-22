@@ -1,0 +1,27 @@
+<svg
+    viewbox="0 0 90 90"
+    xmlns="http://www.w3.org/2000/svg"
+>
+    <!-- right outside -->
+    <path
+        d="M89 1, L89 89"
+        stroke="black"
+        fill="none"
+    />
+
+    <!-- double inside slant -->
+    <line
+        x1="89"
+        y1="1"
+        x2="61"
+        y2="29"
+        stroke="black"
+    />
+    <line
+        x1="61"
+        y1="61"
+        x2="89"
+        y2="89"
+        stroke="black"
+    />
+</svg>
