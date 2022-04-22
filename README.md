@@ -121,3 +121,75 @@ Home of the bookah constructed language
 
 #### ka&#618;
 ![ky](./glyphs/ky.svg)
+
+#### p&#594;
+![paa](./glyphs/paa.svg)
+
+#### p&#230;
+![pah](./glyphs/pah.svg)
+
+#### pi:
+![pee](./glyphs/pee.svg)
+
+#### pe
+![peh](./glyphs/peh.svg)
+
+#### p&#618;
+![pih](./glyphs/pih.svg)
+
+#### p&#601;&#650;
+![poh](./glyphs/poh.svg)
+
+#### pu:
+![poo](./glyphs/poo.svg)
+
+#### pa&#618;
+![py](./glyphs/py.svg)
+
+#### t&#594;
+![taa](./glyphs/taa.svg)
+
+#### t&#230;
+![tah](./glyphs/tah.svg)
+
+#### ti:
+![tee](./glyphs/tee.svg)
+
+#### te
+![teh](./glyphs/teh.svg)
+
+#### t&#618;
+![tih](./glyphs/tih.svg)
+
+#### t&#601;&#650;
+![toh](./glyphs/toh.svg)
+
+#### tu:
+![too](./glyphs/too.svg)
+
+#### ta&#618;
+![ty](./glyphs/ty.svg)
+
+#### v&#594;
+![vaa](./glyphs/vaa.svg)
+
+#### v&#230;
+![vah](./glyphs/vah.svg)
+
+#### vi:
+![vee](./glyphs/vee.svg)
+
+#### ve
+![veh](./glyphs/veh.svg)
+
+#### v&#618;
+![vih](./glyphs/vih.svg)
+
+#### v&#601;&#650;
+![voh](./glyphs/voh.svg)
+
+#### vu:
+![voo](./glyphs/voo.svg)
+
+#### va&#618;
+![vy](./glyphs/vy.svg)
