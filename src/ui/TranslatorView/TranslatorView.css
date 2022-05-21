@@ -1,0 +1,47 @@
+.layout {
+    display: grid;
+    grid-template-rows: 1fr 1fr 3fr 3fr;
+}
+
+.header {
+    
+}
+
+.directionSelectorContainer {
+
+}
+
+.directionSelector {
+
+}
+
+.sourceTextContainer {
+
+}
+
+.sourceText {
+    
+}
+
+textarea {
+    width: 100%;
+    height: 100%;
+
+    border: none;
+    overflow: auto;
+    outline: none;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+
+    resize: none; /*remove the resize handle on the bottom right*/
+}
+
+.translatedTextContainer {
+
+}
+
+.translatedText {
+
+}

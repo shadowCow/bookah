@@ -7,6 +7,8 @@ const config = {
         new CopyPlugin({
             patterns: [
                 { from: "src/index.html", to: "index.html" },
+                { from: "node_modules/react/umd/react.development.js", to: "react.js" },
+                { from: "node_modules/react-dom/umd/react-dom.development.js", to: "react-dom.js" },
             ],
         }),
     ],
@@ -37,8 +39,24 @@ const config = {
                 use: 'ts-loader',
                 exclude: /node_modules/,
             },
+            {
+                test: /\.css$/,
+                use: [
+                    'style-loader',
+                    {
+                        loader: 'css-loader',
+                        options: {
+                            modules: true
+                        }
+                    },
+                ],
+            },
         ],
     },
+    externals: {
+        'react': 'React',
+        'react-dom': 'ReactDOM',
+    }
 }
 
 module.exports = (env, argv) => {
